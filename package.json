@@ -1,0 +1,23 @@
+{
+  "name": "name-transliterate-v-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^6.1.0",
+    "crud-db": "^1.1.0",
+    "csv-writer": "^1.6.0",
+    "csvtojson": "^2.0.10",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.2.1"
+  },
+  "devDependencies": {}
+}
