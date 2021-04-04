@@ -4,7 +4,7 @@ Translate names from Hindi in a CSV file to English which will be downloaded as 
 
 ## Preview
 
-![preview gif](./demo 2.gif)
+![gif](./demo 2.gif)
 
 Link: http://nametranslate.herokuapp.com/
 
